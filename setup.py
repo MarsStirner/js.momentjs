@@ -12,7 +12,7 @@ def read(*rnames):
 long_description = read('README.rst')
 
 setup(
-    name='js.ui_bootstrap',
+    name='js.momentjs',
     version=version,
     description="Fanstatic packaging of Angular UI Bootstrap",
     long_description=long_description,
