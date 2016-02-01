@@ -17,10 +17,6 @@ moment_timezone_with_data = Resource(
     library, 'moment-timezone-with-data.js',
     depends=[moment]
 )
-moment_timezone_with_data_periodic = Resource(
-    library, 'moment-timezone-with-data-2010-2020.js',
-    depends=[moment]
-)
 moment_timezone_with_data_2010_2020 = Resource(
     library, 'moment-timezone-with-data-2010-2020.js',
     depends=[moment]
